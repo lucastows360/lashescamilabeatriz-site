@@ -1,0 +1,27 @@
+Site - Camila Beatriz Lashes Designer e Estética
+
+COMO PUBLICAR NO GITHUB PAGES
+1. Envie o conteúdo desta pasta para o repositório (index.html na raiz).
+2. Em Settings > Pages, escolha a branch main e a pasta / (root).
+
+O index.html já contém todas as imagens embutidas, então ele funciona sozinho.
+A pasta img/ guarda as mesmas imagens separadas, para backup e reuso
+(Google Meu Negócio, redes sociais, novas versões do site).
+
+O QUE CARREGA DA INTERNET
+- Fontes: Google Fonts (Marcellus, Pinyon Script, Jost)
+- Leitor 360: Pannellum 2.5.6 (cdnjs.cloudflare.com)
+- Mapa: Google Maps
+
+PARA EDITAR
+- Endereço do mapa: linha "const ENDERECO" no início do script.
+- WhatsApp: busque por 5543996863899 e troque se precisar.
+- Preço do Volume Brasileiro: confirmar com a cliente (catálogo dizia "R$ 12500"; usado R$ 125,00).
+
+IMAGENS (pasta img/)
+- studio360.jpg ............ foto 360° do studio (topo e tour)
+- camila-sobre.jpg ......... Camila de branco (Sobre mim)
+- camila-capa-full.jpg ..... Camila de preto (Sobre mim e Procedimento)
+- volume-*.jpg, lash-lifting.jpg ... olhares de cada técnica
+- studio-prateleira / studio-orquidea / studio-sofa .... fotos do studio
+- flores-mao.jpg, flores.jpg, cetim.jpg ... texturas do catálogo
